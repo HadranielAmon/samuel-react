@@ -1,0 +1,130 @@
+.root {
+  position: relative;
+  width: 294px;
+  height: 392px;
+  align-items: flex-start;
+}
+.background {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 12px;
+  background-color: #fff;
+}
+.image {
+  position: absolute;
+  left: 6.8027%;
+  right: 6.8027%;
+  top: 4.8469%;
+  bottom: 46.9388%;
+  border-radius: 12px;
+  background-image:/* webpackIgnore: true */ url('assets/image.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.title {
+  color: #000;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.8844%;
+  right: 10.5442%;
+  top: 58.9286%;
+  bottom: 35.9694%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.aLongDescriptionMustClipWhenIt {
+  color: #888;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 14.2857%;
+  right: 10.5442%;
+  top: 66.8367%;
+  bottom: 22.9592%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.tablerStarFilled {
+  position: absolute;
+  left: 5.102%;
+  right: 89.4558%;
+  top: 90.051%;
+  bottom: 5.8673%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.tablerStarFilled2 {
+  position: absolute;
+  left: 18.0272%;
+  right: 76.5306%;
+  top: 90.051%;
+  bottom: 5.8673%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.tablerStarFilled3 {
+  position: absolute;
+  left: 11.5646%;
+  right: 82.9932%;
+  top: 90.051%;
+  bottom: 5.8673%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.tablerStarFilled4 {
+  position: absolute;
+  left: 24.4898%;
+  right: 70.068%;
+  top: 90.051%;
+  bottom: 5.8673%;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.tablerStarFilled5 {
+  position: absolute;
+  left: 30.9524%;
+  right: 63.6054%;
+  top: 90.051%;
+  bottom: 5.8673%;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.price {
+  color: #000;
+  font-size: 22px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 60.5442%;
+  right: 6.8027%;
+  top: 88.5204%;
+  bottom: 4.5918%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
